@@ -51,3 +51,7 @@
 ### Name: [Kirankumar Ambati](https://github.com/kirankumarambati)
 - Place: Hyderabad, India
 - Passion: Frontend Development
+### Name:  [Satyam Savita](https://github.com/satyam15)
+  -Place: Kanpur,Uttar  Pradesh
+  -Bio:  Software Developer
+  -Github:-[Satyam](https://github.com/satyam15)
